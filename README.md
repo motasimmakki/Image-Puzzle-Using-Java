@@ -13,16 +13,16 @@
 </ul>
 
 # <h1>Screenshots :</h1>
-<h2 style="margin-left = 30px;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Initial Run |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Solved Using Heuristic |<h2>
-<img align="center" src="https://github.com/motasimmakki/Image-Puzzle-Using-Java/blob/master/Screenshots/Screenshot%20(373).png" width="450" height="530"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" src="https://github.com/motasimmakki/Image-Puzzle-Using-Java/blob/master/Screenshots/Screenshot%20(374).png" width="450" height="530"/>
+<h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Initial Run |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Solved Using Heuristic |<h2>
+<img align="center" src="https://github.com/motasimmakki/Image-Puzzle-Using-Java/blob/master/Screenshots/Screenshot%20(373).png" width="400" height="480"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" src="https://github.com/motasimmakki/Image-Puzzle-Using-Java/blob/master/Screenshots/Screenshot%20(374).png" width="400" height="480"/>
 <br>
 <br>
-<h2 style="margin-left = 30px;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Image Changed |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Solved by Player |<h2>
-<img align="center" src="https://github.com/motasimmakki/Image-Puzzle-Using-Java/blob/master/Screenshots/Screenshot%20(375).png" width="450" height="530"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" src="https://github.com/motasimmakki/Image-Puzzle-Using-Java/blob/master/Screenshots/Screenshot%20(376).png" width="450" height="530"/>
+<h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Image Changed |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Solved by Player |<h2>
+<img align="center" src="https://github.com/motasimmakki/Image-Puzzle-Using-Java/blob/master/Screenshots/Screenshot%20(375).png" width="400" height="480"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" src="https://github.com/motasimmakki/Image-Puzzle-Using-Java/blob/master/Screenshots/Screenshot%20(376).png" width="400" height="480"/>
 
   
 <h6 align='center'>
